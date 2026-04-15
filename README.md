@@ -10,6 +10,25 @@
 
 ## 中文
 
+### 🎯 这套系统能帮你解决什么问题？
+
+1. **AI每次都忘记你是谁**
+   你的AI是不是聊完就忘？每次都要重新介绍自己？四层记忆架构让它永远记得你是谁、你的偏好、你们聊过什么。
+
+2. **技能用了10次还是生疏**
+   你的AI是不是每次用技能都像第一次？技能闭环机制让每次使用都有记录，越用越强，不是重复劳动。
+
+3. **遇到问题不知道怎么改**
+   你的AI出问题了只能干瞪眼？自主迭代SOP让它发现问题→设计方案→执行→测试→备份回滚，自己升级自己。
+
+4. **知识没有地方沉淀**
+   你的AI学到的东西没有地方存？Wiki知识库让每个知识点都有位置，30秒内找到任何信息。
+
+5. **平台工具不稳定**
+   担心平台工具突然罢工？文件检索方案不依赖平台RAG，自己搭一套，反而更稳。
+
+---
+
 ### 🚀 这是什么？
 
 EvoAgent是一套**Agent自进化系统配置方案**。
@@ -164,6 +183,25 @@ MIT License - 自由使用、修改、商用。
 ---
 
 ## English
+
+### 🎯 What Problems Does This Solve?
+
+1. **AI forgets who you are every time**
+   Does your AI forget after every chat? Have to introduce yourself again? Four-layer memory architecture ensures it remembers who you are, your preferences, and your conversations.
+
+2. **Skills stay rusty after 10 uses**
+   Does your AI use skills like it's the first time, every time? Skill closed-loop mechanism records every use, making skills stronger over time, not repetitive labor.
+
+3. **Don't know how to fix problems**
+   Can only stare blankly when your AI has issues? Autonomous iteration SOP enables it to discover problems → design solutions → execute → test → backup & rollback, upgrading itself.
+
+4. **Nowhere to store knowledge**
+   Does your AI have nowhere to store what it learns? Wiki knowledge base gives every piece of knowledge a place, finding any information within 30 seconds.
+
+5. **Platform tools are unstable**
+   Worried about platform tools suddenly breaking? File retrieval solution doesn't depend on platform RAG - build your own, actually more stable.
+
+---
 
 ### 🚀 What is EvoAgent?
 
